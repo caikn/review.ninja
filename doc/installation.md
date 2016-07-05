@@ -14,7 +14,7 @@ already have such a service available to you.
 ### MongoDB
 
 ReviewNinja uses a [Mongo database](https://www.mongodb.org/) for data persistance. See
-the [installation guide](https://docs.mongodb.org/manual/installation/) to isntall 
+the [installation guide](https://docs.mongodb.org/manual/installation/) to install 
 MondoDB on your server.
 
 ### Node
